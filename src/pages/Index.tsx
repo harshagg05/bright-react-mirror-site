@@ -3,6 +3,7 @@ import Navbar from '@/components/Navbar';
 import Hero from '@/components/Hero';
 import Features from '@/components/Features';
 import FeaturedPlants from '@/components/FeaturedPlants';
+import AyushSystems from '@/components/AyushSystems';
 import Footer from '@/components/Footer';
 
 const Index = () => {
@@ -12,6 +13,7 @@ const Index = () => {
       <Hero />
       <Features />
       <FeaturedPlants />
+      <AyushSystems />
       <Footer />
     </div>
   );
